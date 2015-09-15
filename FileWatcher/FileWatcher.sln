@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatcher", "FileWatcher\FileWatcher.csproj", "{4F4D0E11-1FBE-40C6-8807-F36B3498017C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FileWatcherSetup", "FileWatcherSetup\FileWatcherSetup.vdproj", "{0C3ECCAC-7754-465D-BC58-701B2A092E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F4D0E11-1FBE-40C6-8807-F36B3498017C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4D0E11-1FBE-40C6-8807-F36B3498017C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4D0E11-1FBE-40C6-8807-F36B3498017C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4D0E11-1FBE-40C6-8807-F36B3498017C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3ECCAC-7754-465D-BC58-701B2A092E15}.Debug|Any CPU.ActiveCfg = Debug
+		{0C3ECCAC-7754-465D-BC58-701B2A092E15}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

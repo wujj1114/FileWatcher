@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+Installing service FileWatcher...
+Service FileWatcher has been successfully installed.
+Creating EventLog source FileWatcher in log Application...
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2008\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+Removing EventLog source FileWatcher.
+Service FileWatcher is being removed from the system...
+Service FileWatcher was successfully removed from the system.
